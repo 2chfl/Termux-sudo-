@@ -1,2 +1,1 @@
-# Termux-sudo-
-sudo package for termux and Magisk 20+
+Слегка исправленная версия пакета sudo для термукса и Magisk 20+ (работа на Magisk 23 не проверялась). 
